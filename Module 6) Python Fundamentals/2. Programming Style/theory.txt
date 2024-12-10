@@ -1,0 +1,51 @@
+1).Understanding Python’s PEP 8 guidelines. 
+1. File Naming:
+   - Python files use `.py` extension.
+   - Files run directly are **scripts**, and imported files are **modules**.
+
+2. Code Style:
+   - Indent with 4 spaces not tabs.
+   - Use `snake_case` for variables/functions and `PascalCase` for classes.
+- Keep lines under 79 characters.
+--->
+snake_case:Words are written in lowercase and separated by underscores (_).Commonly used for variables and function names.
+Examples:
+    total_count
+    calculate_sum()
+--->
+3. Namespaces:
+   - Each file/module has its own namespace.
+   - Import with `import module_name`.
+
+4. Program vs. Module:
+   - A `.py` file run directly is a script.
+   - The same file, when imported, acts as a module.
+
+
+2).Indentation, comments, and naming conventions in Python. 
+	1. single line comment(#)
+	2. multi-line comment("""/ """) or docstrings(""")
+
+Rebinding : variables can be reassigned to different objects during execution.
+	x=41
+	x=[1,2,3]
+->> naming convention (it means declaring variables and identifiers)
+
+
+Python Variable Naming Rules:
+
+1. Must start with a letter or an underscore (_).
+2. Cannot start with a number.
+3. Can contain only letters, numbers, and underscores (A-Z, a-z, 0-9, _).
+4. Case-sensitive (age, Age, AGE are different).
+5. Cannot use Python keywords (e.g., if, while).
+
+
+3).Writing readable and maintainable code.
+
+	->>Follow PEP 8: Use 4-space indentation and descriptive names.
+	Use Comments: Explain complex logic briefly.
+	Keep Code Modular: Use functions and classes for reusability.
+	Handle Errors: Use try-except for safe execution.
+	Use Constants: Store fixed values in uppercase variables.
+	Readable Outputs: Use f-strings for clarity.

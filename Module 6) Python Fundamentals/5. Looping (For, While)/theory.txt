@@ -1,0 +1,27 @@
+1).Introduction to for and while loops.
+2).How loops work in Python. 
+3).Using loops with collections (lists, tuples, etc.).  
+
+	-for loop: sequence controller loop
+
+	syntax:
+
+	for interator in sequqnce:
+    	statement
+
+	range(start,stop,step)
+
+	start : starting number
+	stop : -1 ending
+	step : increment by
+
+
+	-while loop 
+
+	-while loop : while loop is an entry controllerd loop while loop check condition first and then execute
+	
+	syntax : 
+	initization 
+	while condition:
+    	statement
+    	updation

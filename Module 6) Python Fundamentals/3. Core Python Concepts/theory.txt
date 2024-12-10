@@ -1,0 +1,19 @@
+1).Understanding data types: integers, floats, strings, lists, tuples, dictionaries, sets.
+
+	->>Understanding Data Types 
+	- Integer:Whole numbers, positive or negative.  
+	- Float: Numbers with decimal points.  
+	- String:Sequence of characters.  
+	-lists:Lists are used to store multiple items in a single variable.
+	-tuples:Tuples are used to store multiple items in a single variable.
+	-dictionaries:Dictionaries are used to store data values in key:value pairs.
+	-sets:Sets are used to store multiple items in a single variable.
+
+2).Python variables and memory allocation.
+	->>Variables store data values and reference memory locations dynamically allocated during runtime.
+
+3).Python operators: arithmetic, comparison, logical, bitwise.
+	- Arithmetic Operators: Perform mathematical operations like +, -, *, //.  
+	- Comparison Operators: Compare values, e.g., ==, !=, <, >.  
+	- Logical Operators: Combine conditions using and, or, not.  
+	- Bitwise Operators: Perform bit-level operations like &, |, ^, ~.  
